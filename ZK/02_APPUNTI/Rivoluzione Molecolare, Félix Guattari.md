@@ -1,0 +1,13 @@
+Il termine "Rivoluzione Molecolare" (che è il titolo di una delle raccolte di saggi di Félix Guattari, _Molecular Revolution and Class Struggle_), rappresenta un concetto chiave nella sua critica radicale.
+
+La **rivoluzione molecolare** è definita come inseparabile da una rivoluzione su scala più ampia e visibile (molar). Guattari sostiene che i grandi sconvolgimenti sociali futuri sono diventati **inseparabili da una moltitudine di rivoluzioni molecolari nell'economia del desiderio**,.
+
+Caratteristiche fondamentali della Rivoluzione Molecolare:
+
+- **Rapporto con la Crisi Sociale:** La Rivoluzione Molecolare non riguarda solo i sistemi politici, ma porta a una messa in discussione di **tutti, anche i più piccoli, ingranaggi e meccanismi della società**.
+- **Aspirazione al Desiderio e alla Libertà:** La Rivoluzione Molecolare implica una **moltitudine di mutazioni molecolari del desiderio** che sono state liberate,. Il "molecolare" è caratterizzato come l'emergere di linee di fuga che si combinano con le linee oggettive di de-territorializzazione del sistema per creare un'**aspirazione irrefrenabile a nuove aree di libertà**.
+- **Trasversalità e Micro-Politica:** Questo processo implica una **ramificazione graduale degli agenti della rivoluzione molecolare** al di sotto dei vari sistemi di potere. Tali agenti sfidano le logiche stabilite e richiedono un'analisi molecolare, che è l'espressione locale di forze molecolari che combinano teoria e azione.
+- **Trasformazione degli Obiettivi:** Le rivoluzioni molecolari non sono incentrate unicamente su obiettivi quantitativi (come lo standard di vita), ma mettono in discussione la **qualità della vita** e il "diritto al desiderio",. Esse richiedono di riconsiderare l'intero scopo del lavoro, del tempo libero, della vita familiare, delle relazioni tra i sessi e della percezione del tempo,.
+- **Sfida ai Sistemi Tradizionali:** Queste rivoluzioni rappresentano sfide profonde ai sistemi sociali che **minano le relazioni di produzione tradizionali, i sistemi sociali e familiari tradizionali** e gli atteggiamenti tradizionali verso il corpo, il sesso e l'universo.
+
+Guattari crede che il movimento rivoluzionario, lavorando su "mini-progetti" su piccola scala (come comitati di quartiere o asili nido) possa contribuire a lanciare la Rivoluzione Molecolare, trasformando la situazione attuale in un punto di svolta per la storia.
