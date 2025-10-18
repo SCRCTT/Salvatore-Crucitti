@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+  - type: table
+    name: Raccoglitore
+    filters:
+      and:
+        - file.inFolder("ZK/01_RACCOGLITORE")
+    order:
+      - file.name
+    cardSize: 60
